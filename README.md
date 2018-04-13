@@ -21,4 +21,4 @@ It should sound pretty natural, but it's really just a manipulation of the first
 It's a very silly script, but hopefully someone will find it helpful. I might expand this in the future.
 
 ## References
-Buxó-Lugo, A. & Watson, D. G. (2016). Evidence for the influence of syntax on prosodic parsing. Journal of Memory and Language, 90, 1-13.
+Buxó-Lugo, A. & Watson, D. G. (2016). Evidence for the influence of syntax on prosodic parsing. *Journal of Memory and Language, 90,* 1-13.
