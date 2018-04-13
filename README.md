@@ -1,6 +1,6 @@
 # prosody_manipulator
-This is a really simple program that can be used to manipulate the duration 
-and pitch contour of a word or utterance. 
+This is a really simple Praat script that can be used to manipulate the duration 
+and pitch contour of a word or utterance. The script was used to make the materials for Buxó-Lugo & Watson (2016).
 
 To use it, you must first have a sound selected (highlighted) in Praat's Objects window. Then run the script. 
 You'll have to provide the final duration you'd like your sound to have, and 
@@ -19,3 +19,6 @@ We can run the script on this recording, and given the appropriate values of F0 
 It should sound pretty natural, but it's really just a manipulation of the first recording.
 
 It's a very silly script, but hopefully someone will find it helpful. I might expand this in the future.
+
+## References
+Buxó-Lugo, A. & Watson, D. G. (2016). Evidence for the influence of syntax on prosodic parsing. Journal of Memory and Language, 90, 1-13.
